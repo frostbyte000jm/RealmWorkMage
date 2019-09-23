@@ -1,20 +1,29 @@
-.rwStyle1 {
-font-family:Arial,Helvetica;list-style-type:disc;margin:0pt 0pt 0pt 0pt;text-align:left
-}
-.rwStyle2 {
-font-family:Calibri;font-size:11pt
-}
-.rwStyle7 {
-font-weight:bold
-}
 .rwStyle5 {
-line-height:1.07;margin:0pt 0pt 6pt 0pt;text-align:left;text-indent:0pt
+font-family:Arial Unicode MS;font-size:11pt;font-weight:bold
 }
 .rwStyle3 {
-line-height:1.07;margin:0pt 0pt 8pt 0pt;text-align:left;text-indent:0pt
+font-family:Arial,Helvetica;list-style-type:disc;margin:0pt 0pt 0pt 0pt;text-align:left
 }
 .rwStyle4 {
+font-family:Calibri;font-size:11pt
+}
+.rwStyle8 {
+font-family:Calibri;font-size:11pt;font-style:italic
+}
+.rwStyle2 {
+font-weight:bold
+}
+.rwStyle1 {
+line-height:1.07;margin:0pt 0pt 6pt 0pt;text-align:left;text-indent:0pt
+}
+.rwStyle9 {
+line-height:1.07;margin:0pt 0pt 8pt 0pt;text-align:left;text-indent:0pt
+}
+.rwStyle10 {
 margin-top:0;margin-bottom:0;
+}
+.rwStyle7 {
+margin:0pt 0pt 6pt 0pt;text-align:center;text-indent:0pt
 }
 .rwStyle6 {
 text-decoration:none
