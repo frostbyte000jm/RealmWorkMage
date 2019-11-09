@@ -1,54 +1,75 @@
-.rwStyle11 {
+.rwStyle16 {
 color:#404040;font-family:Calibri;font-size:11pt;font-style:italic
 }
-.rwStyle18 {
-font-family:Arial Unicode MS;font-size:11pt;font-weight:bold
-}
-.rwStyle8 {
-font-family:Arial,Helvetica;list-style-type:disc;margin:0pt 0pt 0pt 0pt;text-align:left
-}
-.rwStyle12 {
-font-family:Bahnschrift SemiBold Condensed;font-size:11pt
-}
-.rwStyle5 {
-font-family:Calibri;font-size:10pt;font-style:italic
-}
-.rwStyle7 {
-font-family:Calibri;font-size:11pt
-}
-.rwStyle9 {
-font-family:Calibri;font-size:11pt;font-style:italic
-}
-.rwStyle1 {
-font-family:Calibri;font-size:11pt;font-weight:bold
-}
-.rwStyle14 {
-font-family:Calibri;font-size:11pt;text-decoration:underline
-}
-.rwStyle10 {
-font-weight:bold
-}
-.rwStyle13 {
-line-height:1.066667;margin:0pt 0pt 6pt 0pt;text-align:left;text-indent:0pt
-}
-.rwStyle4 {
-line-height:1.07;margin:0pt 0pt 6pt 0pt;text-align:left;text-indent:0pt
-}
-.rwStyle16 {
-line-height:1.07;margin:0pt 0pt 8pt 0pt;text-align:left;text-indent:0pt
-}
-.rwStyle17 {
-line-height:1.07;margin:22pt 43pt 8pt 43pt;text-align:center;text-indent:0pt
-}
-.rwStyle2 {
-margin-top:0;margin-bottom:0;
+.rwStyle24 {
+color:#5A5A5A;font-family:Calibri;font-size:11pt
 }
 .rwStyle15 {
-margin:0pt 0pt 0pt 0pt;text-align:center;text-indent:0pt
+color:#7030A0;font-family:Calibri;font-size:11pt;font-weight:bold
+}
+.rwStyle10 {
+font-family:Arial Unicode MS;font-size:11pt;font-weight:bold
+}
+.rwStyle14 {
+font-family:Arial,Helvetica;list-style-type:disc;margin:0pt 0pt 0pt 0pt;text-align:left
+}
+.rwStyle2 {
+font-family:Bahnschrift SemiBold Condensed;font-size:11pt
+}
+.rwStyle7 {
+font-family:Calibri;font-size:10pt;font-style:italic
+}
+.rwStyle19 {
+font-family:Calibri;font-size:11pt
+}
+.rwStyle22 {
+font-family:Calibri;font-size:11pt;font-style:italic
+}
+.rwStyle20 {
+font-family:Calibri;font-size:11pt;font-style:italic;font-weight:bold
+}
+.rwStyle23 {
+font-family:Calibri;font-size:11pt;font-weight:bold
+}
+.rwStyle9 {
+font-family:Calibri;font-size:11pt;text-decoration:underline
+}
+.rwStyle11 {
+font-family:Microsoft Sans Serif;font-size:11pt
+}
+.rwStyle8 {
+font-family:Symbol;font-size:11pt
 }
 .rwStyle6 {
-margin:0pt 0pt 6pt 0pt;text-align:center;text-indent:0pt
+font-weight:bold
+}
+.rwStyle17 {
+line-height:1.066667;margin:0pt 0pt 6pt 0pt;text-align:left;text-indent:0pt
+}
+.rwStyle21 {
+line-height:1.07;margin:0pt 0pt 0pt 18pt;text-align:left;text-indent:-18pt
 }
 .rwStyle3 {
+line-height:1.07;margin:0pt 0pt 6pt 0pt;text-align:left;text-indent:0pt
+}
+.rwStyle25 {
+line-height:1.07;margin:0pt 0pt 8pt 0pt;text-align:left;text-indent:0pt
+}
+.rwStyle1 {
+line-height:1.07;margin:0pt 0pt 8pt 18pt;text-align:left;text-indent:-18pt
+}
+.rwStyle18 {
+line-height:1.07;margin:22pt 43pt 8pt 43pt;text-align:center;text-indent:0pt
+}
+.rwStyle4 {
+margin-top:0;margin-bottom:0;
+}
+.rwStyle12 {
+margin:0pt 0pt 0pt 0pt;text-align:center;text-indent:0pt
+}
+.rwStyle5 {
+margin:0pt 0pt 6pt 0pt;text-align:center;text-indent:0pt
+}
+.rwStyle13 {
 text-decoration:none
 }
